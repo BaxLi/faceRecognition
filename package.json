@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-sdk/eventstream-marshaller": "0.1.0-preview.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "aws-sdk": "^2.639.0",
+    "canvas": "^2.6.1",
+    "face-api.js": "^0.22.1",
+    "materialize": "^1.0.0",
+    "materialize-css": "^1.0.0",
+    "node-pre-gyp": "^0.14.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0"
